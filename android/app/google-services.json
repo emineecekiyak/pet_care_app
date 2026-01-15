@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024268237790",
+    "project_id": "pet-care-app-aa143",
+    "storage_bucket": "pet-care-app-aa143.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024268237790:android:6f33f8c6a5b6300d9fbb4f",
+        "android_client_info": {
+          "package_name": "com.example.mobildeneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGja-6yO9Eund1SW_MwBCLuHZ-e_TMto0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
