@@ -5,8 +5,7 @@ Bu proje, Mobil Programlama Dersi Final Projesi kapsamında Flutter & Dart kulla
 ---
 
 ## 📺 YouTube Tanıtım Videosu
-> [!IMPORTANT]
-> **Video Linki:** [BURAYA YOUTUBE LİNKİNİZİ EKLEYİN] (3 - 7 Dakika)
+> **Video Linki:**
 
 ---
 
@@ -57,8 +56,8 @@ Evde, sokakta veya veterinerde; ihtiyaç duyulan her an mobil cihaz üzerinden k
 ---
 
 ## 👨‍💻 Geliştirici
-*   **Ad Soyad:** [ADINIZ SOYADINIZ]
-*   **Öğrenci No:** [NUMARANIZ]
+*   **Ad Soyad:** EMİNE ECE KIYAK
+*   **Öğrenci No:** 132230013
 
 ---
 *Bu proje bireysel olarak geliştirilmiştir.*
