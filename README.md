@@ -5,7 +5,7 @@ Bu proje, Mobil Programlama Dersi Final Projesi kapsamında Flutter & Dart kulla
 ---
 
 ## 📺 YouTube Tanıtım Videosu
-> **Video Linki:**
+> **Video Linki:** https://youtu.be/RdVl43f8hlk
 
 ---
 
